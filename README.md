@@ -18,5 +18,5 @@ We think it's an interesting app!
 ## What we learned
 We've learned how to use Google API and how to combine them to do web development. We also learned how to use GCP to develop products which gave us a wonderful experience. 
 
-## What's next for Emotion Judgement by NLP
+## What's next for this app
 We want to enrich functions like adding animation and facial recognition to help app do more accurate judgements. 
