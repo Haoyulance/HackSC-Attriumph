@@ -20,3 +20,4 @@ We've learned how to use Google API and how to combine them to do web developmen
 
 ## What's next for this app
 We want to enrich functions like adding animation and facial recognition to help app do more accurate judgements. 
+
