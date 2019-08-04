@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/release--date-4%2F2019-green.svg">	
 </p>
 
-# HackSC-Attriumph
+# Emotion Evaluator
 2019 HackSC Project
 
 ## Team member:
