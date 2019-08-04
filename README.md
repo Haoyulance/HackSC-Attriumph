@@ -1,5 +1,9 @@
 # HackSC-Attriumph
 2019 HackSC Project
+
+## Team member:
+[Lingquan Han](https://github.com/Attriumph)
+
 ## Inspiration
 Our team focuses on web development and machine learning technology. We are really interested in combining these technologies together to make some interesting products which is our inspiration to make this funny web app. 
 
